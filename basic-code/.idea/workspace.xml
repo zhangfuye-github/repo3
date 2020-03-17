@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b017c953-00b2-4c99-91a1-eb635dac1a67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YzJcFNfWOLT2MPVzaBY3E0FNz8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day05-code/src/com/cmbc/day06/demo1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cmbc.day05.demo2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\basic-code\day05-code\src\com\cmbc\day06\demo1" />
+      <recent name="D:\workspace\basic-code\day05-code\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrayListTrain">
+    <configuration name="ArrayListTrain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cmbc.day4.demo2.ArrayListTrain" />
+      <module name="day07-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmbc.day4.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cmbc.day4.demo1.GuessNum" />
+      <module name="day07-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmbc.day4.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cmbc.day04.demo1.HelloWorld" />
+      <module name="day04-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmbc.day04.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cmbc.day05.demo2.InsertSort" />
+      <module name="day05-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmbc.day05.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cmbc.day05.demo2.SelectSort" />
+      <module name="day05-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmbc.day05.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cmbc.day06.demo1.TestStudent" />
+      <module name="day06-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmbc.day06.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayListTrain" />
+        <item itemvalue="Application.GuessNum" />
+        <item itemvalue="Application.TestStudent" />
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.SelectSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b017c953-00b2-4c99-91a1-eb635dac1a67" name="Default Changelist" comment="" />
+      <created>1583939566795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583939566795</updated>
+      <workItem from="1583939572403" duration="3772000" />
+      <workItem from="1583943491969" duration="423000" />
+      <workItem from="1583944103488" duration="1429000" />
+      <workItem from="1583971881577" duration="9582000" />
+      <workItem from="1584073630970" duration="11959000" />
+      <workItem from="1584158315580" duration="2144000" />
+      <workItem from="1584233312820" duration="4765000" />
+      <workItem from="1584287110345" duration="680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1583939909011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1583939909011" />
+    <state x="431" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583945362694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="431" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583945362694" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1584249128656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584249128656" />
+    <state x="529" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583945058664">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="529" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1583945058664" />
+    <state x="463" y="107" key="FileChooserDialogImpl" timestamp="1583944873891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583944873891" />
+    <state width="1323" height="59" key="GridCell.Tab.0.bottom" timestamp="1584249370916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="59" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584249370916" />
+    <state width="1323" height="59" key="GridCell.Tab.0.center" timestamp="1584249370916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="59" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584249370916" />
+    <state width="1323" height="59" key="GridCell.Tab.0.left" timestamp="1584249370916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="59" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584249370916" />
+    <state width="1323" height="59" key="GridCell.Tab.0.right" timestamp="1584249370916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="59" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584249370916" />
+    <state x="372" y="61" key="NewModule_or_Project.wizard" timestamp="1583944886355">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="372" y="61" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1583944886355" />
+    <state x="212" y="0" key="SettingsEditor" timestamp="1584287212459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="212" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584287212459" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1584089518192">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1584089518192" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583971940677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583971940677" />
+    <state x="115" y="0" key="new project wizard" timestamp="1584242275325">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584242275325" />
+  </component>
+</project>
